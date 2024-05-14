@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-### Name: NAVEEN RAJA N R
-### Reg.NO: 212222230093
+### Name: vasanth s
+### Reg.NO: 212222110052
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
